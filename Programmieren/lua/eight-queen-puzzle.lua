@@ -2,13 +2,13 @@ N = 8 -- board size
 solution_found = false
 -- check whether position (n,c) is free from attacks
 function isplaceok(a, n, c)
-	for i = 1, n - 1 do -- for each queen already placed
+	for i = 1, n - 1 do     -- for each queen already placed
 		if
-			(a[i] == c) -- same column?
-			or (a[i] - i == c - n) -- same diagonal?
-			or (a[i] + i == c + n)
-		then -- same diagonal?
-			return false -- place can be attacked
+				(a[i] == c)       -- same column?
+				or (a[i] - i == c - n) -- same diagonal?
+				or (a[i] + i == c + n)
+		then                  -- same diagonal?
+			return false        -- place can be attacked
 		end
 	end
 	return true -- no attacks; place is OK
@@ -28,11 +28,11 @@ end
 
 -- add to board 'a' all queens from 'n' to 'N'
 function addqueen(a, n)
-	if n > N then -- all queens have been placed?
+	if n > N then         -- all queens have been placed?
 		printsolution(a)
 		solution_found = true -- set the flag to indicate a solution has been found
 		return
-	else -- try to place n-th queen
+	else                  -- try to place n-th queen
 		for c = 1, N do
 			if isplaceok(a, n, c) then
 				a[n] = c -- place n-th queen at column 'c'

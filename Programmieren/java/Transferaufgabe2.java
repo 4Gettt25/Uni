@@ -74,7 +74,9 @@ class Transferaufgabe2 extends JFrame {
     setVisible(true);
   }
 
-  public static void main(String[] args) {
+  Public static void main(String[] args) {
     new Transferaufgabe2();
   }
 }
+
+

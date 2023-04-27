@@ -78,5 +78,3 @@ class Transferaufgabe2 extends JFrame {
     new Transferaufgabe2();
   }
 }
-
-

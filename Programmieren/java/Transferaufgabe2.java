@@ -70,7 +70,7 @@ class Transferaufgabe2 extends JFrame {
     JScrollPane scrollPane = new JScrollPane(table);
     add(scrollPane);
 
- pack();
+    pack();
     setVisible(true);
   }
 

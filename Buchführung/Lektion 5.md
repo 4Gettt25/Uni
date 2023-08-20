@@ -22,3 +22,5 @@
 | =   | Ergebnis              | =   | 120.000  | -   | Allg. Verwaltungsa.        | -   | 20.000  |
 |     |                       |     |          | -   | Sonst. Betr. Aufw.         | -   | 30.000  |
 |     |                       |     |          | =   | Ergebnis                   | =   | 120.000 |
+
+

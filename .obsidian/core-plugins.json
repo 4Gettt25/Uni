@@ -12,9 +12,19 @@
   "templates",
   "note-composer",
   "command-palette",
+<<<<<<< HEAD
+=======
+  "slash-command",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
   "editor-status",
   "bookmarks",
   "outline",
   "word-count",
+<<<<<<< HEAD
   "file-recovery"
+=======
+  "slides",
+  "file-recovery",
+  "sync"
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
 ]

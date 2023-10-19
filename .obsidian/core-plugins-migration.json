@@ -12,7 +12,11 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
+<<<<<<< HEAD
   "slash-command": false,
+=======
+  "slash-command": true,
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
@@ -20,11 +24,19 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
+<<<<<<< HEAD
   "slides": false,
+=======
+  "slides": true,
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false,
   "properties": false
+=======
+  "sync": true
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
 }

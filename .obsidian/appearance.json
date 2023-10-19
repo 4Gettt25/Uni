@@ -1,4 +1,10 @@
 {
   "accentColor": "",
+<<<<<<< HEAD
   "cssTheme": "Tokyo Night"
+=======
+  "theme": "obsidian",
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 15
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
 }

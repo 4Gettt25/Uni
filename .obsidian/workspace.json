@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "1430f92ea7d57bf0",
     "type": "split",
     "children": [
@@ -17,35 +18,88 @@
           },
           {
             "id": "aee0449d4cd41420",
+=======
+    "id": "bbdb5424ae98f909",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea15c9ddb746a9ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c816e11e4479bef0",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "VLAN, tagged und untagged.md",
                 "mode": "preview",
+=======
+                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "mode": "source",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "f6422f4b913e7bfc",
+=======
+            "id": "b1228efe0baa31f3",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Digitale Businessmodelle/Immo-Vision.md",
+=======
+                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2acd41b1c2a6559f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praxisprojekt_2/Thema 2/Thema 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d177e04174a5f2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 2
+=======
+        "currentTab": 3
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "0aeae4845a291543",
     "type": "split",
     "children": [
@@ -55,6 +109,17 @@
         "children": [
           {
             "id": "d7250f4c7f496a41",
+=======
+    "id": "bf7e0170550f19a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9695b7c7dbfe9741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf99a0ba0178418f",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +129,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "99b57049318af699",
+=======
+            "id": "9cd754a973340b0c",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "line:(Übung)",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +152,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c2168b0a9ab98af5",
+=======
+            "id": "498d488912ccabca",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,6 +167,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
   },
   "right": {
@@ -102,11 +180,29 @@
         "children": [
           {
             "id": "93dd5a106448ceef",
+=======
+    "width": 200
+  },
+  "right": {
+    "id": "ed0cc559a4606fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3fbfd0609c52e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cfca519ca78b67d",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Digitale Businessmodelle/Immo-Vision.md",
+=======
+                "file": "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +214,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "47425fbacd099273",
+=======
+            "id": "b390483c40e710cf",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Digitale Businessmodelle/Immo-Vision.md",
+=======
+                "file": "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "30ff2cc1108c81d5",
+=======
+            "id": "a69a7bb026ac9711",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,11 +249,16 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9700a1e6606e9548",
+=======
+            "id": "e05538e458787d27",
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Digitale Businessmodelle/Immo-Vision.md"
               }
             }
@@ -155,10 +268,31 @@
     ],
     "direction": "horizontal",
     "width": 300,
+=======
+                "file": "Projects - Demo Project/The Best Notes You'll Ever Make.md"
+              }
+            }
+          },
+          {
+            "id": "b44adbc60c42461c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+<<<<<<< HEAD
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -173,5 +307,45 @@
     "VLAN, tagged und untagged.md",
     "Digitale Businessmodelle/Immo-Vision.md",
     "Digitale Businessmodelle"
+=======
+      "cmdr:Export to PDF...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "d177e04174a5f2bb",
+  "lastOpenFiles": [
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Praxisprojekt_2/Thema 2/Thema 2.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Praxisprojekt_2/Thema 1/Thema 1.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Praxisprojekt_2/Thema 2",
+    "Praxisprojekt_2/Thema 1",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Praxisprojekt_2",
+    "Projects - Demo Project",
+    "Buchführung/Lektion 7.md",
+    "Dataview.md",
+    "Buchführung/Lektion 1.md",
+    "Buchführung/Lektion 5.md",
+    "Verschlüsselung.md",
+    "Buchführung/Lektion 2.md",
+    "2023-08-13.md",
+    "Buchführung/Lektion 1/Bilanzgleichung.md",
+    "Buchführung/Lektion 1",
+    "Deep-Web Hosting.md",
+    "Buchführung",
+    "Test.md",
+    "Untitled.canvas",
+    "2023-07-28.md"
+>>>>>>> fd35bd39c377120cb69c2669314354dd7e20e436
   ]
 }
